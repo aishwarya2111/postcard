@@ -18,9 +18,9 @@
   }
   
   .card {
-    margin: 100px auto 0;
-    width: 600px;
-    height: 600px;
+    margin: 800px auto 0;
+    width: 500px;
+    height: 500px;
     perspective: 1000px;
     animation: fadeIn 5s;
   }
